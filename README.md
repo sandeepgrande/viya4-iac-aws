@@ -1,6 +1,6 @@
 # SAS Viya 4 Infrastructure as Code (IaC) for Amazon Web Services (AWS)
 
-## Overview
+## Overview 
 
 This project contains Terraform scripts to provision the AWS cloud infrastructure resources that are required to deploy SAS Viya platform product offerings. Here is a list of resources that this project can create:
 
